@@ -1,5 +1,4 @@
 {
-<<<<<<< HEAD
     "name": "Dante2Clone",
     "version": "1.0.0",
     "description": "",
@@ -59,21 +58,4 @@
     "keywords": [],
     "author": "",
     "license": "ISC"
-=======
-  "name": "Test",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "dependencies": {
-    "Dante2": "^0.3.6",
-    "react-bootstrap": "^0.31.5"
-  },
-  "devDependencies": {},
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
->>>>>>> e5fda02ef9fb6a93014634490a0bb2a914ebccc6
 }
