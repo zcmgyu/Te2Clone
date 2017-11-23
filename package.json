@@ -2,7 +2,15 @@
     "name": "Dante2Clone",
     "version": "1.0.0",
     "description": "",
-    "main": "index.js",
+    "main": "lib/index.js",
+    "jsnext:main": "es/index.js",
+    "module": "es/index.js",
+    "files": [
+      "CHANGELOG.md",
+      "lib",
+      "dist",
+      "es"
+    ],
     "scripts": {
         "start": "node_modules/.bin/webpack-dev-server  --hot --inline --config webpack.config-doc.js",
         "build": "babel-node tools/build-cli.js",
